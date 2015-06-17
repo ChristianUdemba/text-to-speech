@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text2Speech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lang_en">English</string>
+    <string name="lang_de">German</string>
+    <string name="lang_fr">French</string>
+    <string name="lang_it">Italian</string>
+    <string name="choose_lang">Choose Language</string>
+
+
+</resources>
